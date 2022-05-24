@@ -24,7 +24,7 @@ classDiagram
             -int alto
             -int ancho
             +Rectangule()
-            +Rectangle(int,int,int,int)
+            +Rectangle(int,int)
             +getAlto()
             +getAncho()      
       }
